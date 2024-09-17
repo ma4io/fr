@@ -1,1 +1,21 @@
-nothing yet
+{
+    "Test Tweak Prefs:label": "#FFFFFF",
+    },
+    "Wi-Fi signal strength:segment": [
+        "SBShowRSSI",
+        {
+            "Off": [
+                "0",
+                {
+                    "Segment 1:label": "#0000FF"
+                }
+            ],
+            "On": [
+                "1",
+                {
+                    "Segment 2:label": "#FF0000"
+                }
+            ]
+        }
+    }
+}
