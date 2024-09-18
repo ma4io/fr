@@ -27,9 +27,9 @@
             "bundleid": "party.jailbreak.SixteenPro",
             "author": "jailbreak.party",
             "description": "iPhone 16 features on any iPhone.",
-            "long_description":"Enable iPhone 16 features on any iPhone.\n\nFeatures Include:\n- Dynamic Island\n- Always On Display\n- iPhone 16 settings\n- Updated model name",
-            "version": "1.0",
-            "icon": "/assets/SixteenProIcon.png",
+            "long_description":"Enable iPhone 16 features on any iPhone.\nFeatures Include:\n- Dynamic Island\n- Always On Display\n- iPhone 16 settings\n- Updated model name",
+            "version": "0.1.0",
+            "icon": "/assets/SixteenProIcon.jpeg",
             "banner":"/assets/SixteenProBanner.jpeg",
             "path": "/pkgs/party.jailbreak.SixteenPro.zip",
             "screenshots":[
