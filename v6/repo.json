@@ -7,6 +7,13 @@
     "url": "https://jailbreak.party/purekfd/",
     "featured": [
         {
+          "name": "SixteenPro",
+          "bundleid": "party.jailbreak.SixteenPro",
+          "banner": "/assets/SixteenProBanner.jpeg",
+          "fontcolor": "#FFFFFF",
+          "showname": true
+        },        
+        {
           "name": "KYSMobileGestalt",
           "bundleid": "party.jailbreak.gestaltLoop",
           "banner": "/assets/banner.png",
@@ -15,6 +22,21 @@
        }
     ],
     "packages": [
+       {
+            "name": "SixteenPro",
+            "bundleid": "party.jailbreak.SixteenPro",
+            "author": "jailbreak.party",
+            "description": "iPhone 16 features on any iPhone.",
+            "long_description":"Enable iPhone 16 features on any iPhone.\n\nFeatures Include:\n- Dynamic Island\n- Always On Display\n- iPhone 16 settings\n- Updated model name",
+            "version": "1.0",
+            "icon": "/assets/SixteenProIcon.png",
+            "banner":"/assets/SixteenProBanner.jpeg",
+            "path": "/pkgs/party.jailbreak.SixteenPro.zip",
+            "screenshots":[
+                
+            ],
+            "varOnly":true
+        },
         {
             "name": "KYSMobileGestalt",
             "bundleid": "party.jailbreak.gestaltLoop",
