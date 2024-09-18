@@ -1,27 +1,32 @@
 {
     "spec":"1.0",
     "repotype":"purekfdextended",
-    "name": "PureKFD",
-    "description": "Tweak repo specialized for PureKFD!",
-    "icon": "assets/icon.png",
+    "name": "jailbreak.party",
+    "description": "the greatest PureKFD repo ever\u2122",
+    "icon": "/assets/icon.png",
+    "url": "https://jailbreak.party/purekfd/",
     "featured": [
-        
+        {
+          "name": "MobileGestalt Bootloop",
+          "bundleid": "party.jailbreak.gestaltLoop",
+          "banner": "/assets/banner.png",
+          "fontcolor": "#FFFFFF",
+          "showname": true
+       }
     ],
     "packages": [
         {
-            "name": "EUEnabler",
-            "bundleid": "uwu.lrdsnow.EUEnabler",
-            "author": "Lrdsnow",
-            "description": "Enable EU features outside of the EU!",
-            "long_description":"Enables EU features outside of the EU!\nWarning: Low Success Rate",
+            "name": "MobileGestalt Bootloop",
+            "bundleid": "party.jailbreak.gestaltLoop",
+            "author": "Skadz",
+            "description": "Bootloops your device. Like actually.",
+            "long_description":"Bootloops your iDevice by deleting the MobileGestalt plist.\nWarning: This bootloops your device. We are not responsible for any undesired outcomes that may arise from your usage of this tweak.",
             "version": "1.0",
-            "icon": "assets/misc.png",
-            "banner":"assets/miscBanner.png",
-            "path": "pkgs/uwu.lrdsnow.EUEnabler.purekfd",
+            "icon": "/assets/icon.png",
+            "banner":"/assets/banner.png",
+            "path": "/pkgs/party.jailbreak.gestaltLoop.purekfd",
             "screenshots":[
-                "assets/screenshots/EUEnabler0.png",
-                "assets/screenshots/EUEnabler1.png",
-                "assets/screenshots/EUEnabler2.png"
+                
             ],
             "varOnly":true
         }
