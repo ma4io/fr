@@ -32,9 +32,7 @@
             "icon": "/assets/SixteenProIcon.jpeg",
             "banner":"/assets/SixteenProBanner.jpeg",
             "path": "/pkgs/party.jailbreak.SixteenPro.zip",
-            "screenshots":[
-                
-            ],
+            "screenshots":["assets/screenshots/SixteenProAOD.jpeg", "assets/screenshots/SixteenProIsland.jpeg", "assets/screenshots/SixteenProCamControl.jpeg", "assets/screenshots/SixteenProAbout.jpeg"],
             "varOnly":true
         },
         {
@@ -47,9 +45,7 @@
             "icon": "/assets/icon.png",
             "banner":"/assets/banner.png",
             "path": "/pkgs/party.jailbreak.gestaltLoop.purekfd",
-            "screenshots":[
-                
-            ],
+            "screenshots":["assets/screenshots/gestaltLoop.png"],
             "varOnly":true
         }
     ]
