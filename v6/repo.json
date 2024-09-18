@@ -7,7 +7,7 @@
     "url": "https://jailbreak.party/purekfd/",
     "featured": [
         {
-          "name": "MobileGestalt Bootloop",
+          "name": "KYSMobileGestalt",
           "bundleid": "party.jailbreak.gestaltLoop",
           "banner": "/assets/banner.png",
           "fontcolor": "#FFFFFF",
@@ -16,11 +16,11 @@
     ],
     "packages": [
         {
-            "name": "MobileGestalt Bootloop",
+            "name": "KYSMobileGestalt",
             "bundleid": "party.jailbreak.gestaltLoop",
-            "author": "Skadz",
-            "description": "Bootloops your device. Like actually.",
-            "long_description":"Bootloops your iDevice by deleting the MobileGestalt plist.\nWarning: This bootloops your device. We are not responsible for any undesired outcomes that may arise from your usage of this tweak.",
+            "author": "jailbreak.party",
+            "description": "Deletes MobileGestalt, bootlooping your device.",
+            "long_description":"Deletes MobileGestalt, bootlooping your device.\nWarning: This bootloops your device. We are not responsible for any undesired outcomes that may arise from your usage of this tweak.",
             "version": "1.0",
             "icon": "/assets/icon.png",
             "banner":"/assets/banner.png",
