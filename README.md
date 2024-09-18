@@ -8,4 +8,4 @@ Our tweaks **only** support SparseRestore. We cannot guarantee support on iOS 16
 - Mandela To-Go - MobileGestalt tweaks in your pocket.
 
 Warning: this repos contents has the license:
-`Copyright (c) Lrdsnow 2024 all rights reserved`
+`Copyright (c) jailbreak.party 2024 all rights reserved`
