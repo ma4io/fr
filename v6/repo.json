@@ -60,6 +60,19 @@
             "path": "/pkgs/party.jailbreak.ResSetter17.purekfd",
             "screenshots":["assets/screenshots/Scuffed.png"],
             "varOnly":true
+        },
+        {
+            "name": "Device Model Namer",
+            "bundleid": "party.jailbreak.CustomModelNamer",
+            "author": "jailbreak.party",
+            "description": "Changes your devices model name.",
+            "long_description":"Changes your devices model name to any specified value. We are not responsible for any undesired outcomes that may arise from your usage of this tweak.",
+            "version": "1.0",
+            "icon": "/assets/icon.png",
+            "banner":"/assets/banner.png",
+            "path": "/pkgs/party.jailbreak.CustomModelNamer.purekfd",
+            "screenshots":["assets/screenshots/modelname.png"],
+            "varOnly":true
         }
     ]
 }
