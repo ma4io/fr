@@ -56,7 +56,7 @@
             "long_description":"Changes your resolution to any specfied value you would like. \nWARNING!!!!!!!!!!! DO NOT USE THIS YET IT BOOTLOOPS. We are not responsible for any undesired outcomes that may arise from your usage of this tweak.",
             "version": "1.0.0",
             "icon": "/assets/ResSetter17Icon.png",
-            "banner":"/assets/banner.jpeg",
+            "banner":"/assets/banner.png",
             "path": "/pkgs/party.jailbreak.ResSetter17.purekfd",
             "screenshots":["assets/screenshots/Scuffed.png"],
             "varOnly":true
