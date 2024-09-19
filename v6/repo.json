@@ -47,6 +47,19 @@
             "path": "/pkgs/party.jailbreak.gestaltLoop.purekfd",
             "screenshots":["assets/screenshots/gestaltLoop.png"],
             "varOnly":true
+        },
+        {
+            "name": "ResSetter17",
+            "bundleid": "party.jailbreak.ResSetter17",
+            "author": "jailbreak.party",
+            "description": "Change your resoultion to a specified value",
+            "long_description":"Changes your resolution to any specfied value you would like. \nWARNING!!!!!!!!!!! DO NOT USE THIS YET IT BOOTLOOPS. We are not responsible for any undesired outcomes that may arise from your usage of this tweak.",
+            "version": "1.0.0",
+            "icon": "/assets/ResSetter17Icon.png",
+            "banner":"/assets/banner.jpeg",
+            "path": "/pkgs/party.jailbreak.ResSetter17.purekfd",
+            "screenshots":["assets/screenshots/Scuffed.png"],
+            "varOnly":true
         }
     ]
 }
