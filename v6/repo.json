@@ -23,6 +23,19 @@
     ],
     "packages": [
        {
+            "name": "Apple Intellgence",
+            "bundleid": "party.jailbreak.AppleIntellgence",
+            "author": "jailbreak.party",
+            "description": "Get Apple Intellgence on iOS 18.1b4+",
+            "long_description":"DO NOT USE ON IOS 18.0 OR EARILER. DO NOT USE ON IPADS.\n \nGet Apple Intellgence on any iPhone! iOS 18.1b4+",
+            "version": "0.1.0",
+            "icon": "/assets/appleintelicon.jpeg",
+            "banner":"/assets/appleintelbanner.jpeg",
+            "path": "party.jailbreak.AppleIntellgence.purekfd",
+            "screenshots":["assets/screenshots/appleintelscreenshot.jpeg"],
+            "varOnly":true
+       },
+       {
             "name": "SixteenPro",
             "bundleid": "party.jailbreak.SixteenPro",
             "author": "jailbreak.party",
